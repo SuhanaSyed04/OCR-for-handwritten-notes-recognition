@@ -1,0 +1,1 @@
+# OCR-for-handwritten-notes-recognition
